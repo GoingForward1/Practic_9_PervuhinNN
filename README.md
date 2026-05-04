@@ -33,8 +33,28 @@ _
    Функция get_info_movie принимает индекс экземпляра из структурного массива All_Movies и выводит значения его полей (информацию о фильме).
 
    1) Вход:
+      <img width="350" height="31" alt="Снимок экрана (94)" src="https://github.com/user-attachments/assets/01c7d7e9-c6fb-4cca-8639-18e11e028f4a" />
+
 
       Выход:
+      <img width="274" height="173" alt="Снимок экрана (93)" src="https://github.com/user-attachments/assets/1d94e902-2492-4a87-9f72-6cc68460bd47" />
+
+   2) Вход:
+      <img width="358" height="31" alt="Снимок экрана (96)" src="https://github.com/user-attachments/assets/1393b37f-f185-467f-a5e5-83766f360982" />
+
+      Выход:
+      <img width="288" height="167" alt="Снимок экрана (95)" src="https://github.com/user-attachments/assets/4b62247a-cc66-4c53-b6f7-5061d26ea664" />
+
+
+   3) Вход:
+      <img width="352" height="33" alt="цв" src="https://github.com/user-attachments/assets/bd98648f-f8c6-4be0-b615-15992666af51" />
+
+      Выход:
+      <img width="352" height="33" alt="цв" src="https://github.com/user-attachments/assets/02558785-1b12-4ba8-a6ac-f637cc080ed1" />
+
+
+
+
       
 
 
